@@ -30,13 +30,15 @@ Thanks!
 
 ## Projects
 
-#### [Black Friday Sales Prediction](https://github.com/loandangnt/black-friday)
 
-Capstone project to automate Twitter hate speech detection with classification modeling. 24,802 tweets were preprocessed using NLTK and RegEx. The final model was a Logistic Regression classifier that used CountVectorizer for feature engineering. It achieved a Recall (TPR) of 0.624 and an interactive version has been deployed on Heroku.
 
 #### [Women Clothing Text Review Topic Modeling](https://github.com/loandangnt/women-clothing)
 
 Topic modeling customers' text review for clothing items. 23,486 reviews were preprocessed using NLTK and RegEx. The analysis resovled the questions of what customers like and dislike about each clothing category, as well as identifying what problems need prioritized for a particular clothing item that was dislike (negatively reviewed, lower than 3 in a scale of 5). The unsupervised Latent Dirichlet Analysis topic modeling technique achieved 77% accuracy based on human eyes verification. The model result was a list of the most alarming issues that needs improvements for each negative text review.
+
+#### [Black Friday Sales Prediction](https://github.com/loandangnt/black-friday)
+
+Black Friday Sales Prediction predict based on past purchase, customer demographics and product details. Techniques used: XGBoost, Linear Regression, K-means Clustering. Ranked 470 in public LB.
 
 ## Medium Articles
 <!--
